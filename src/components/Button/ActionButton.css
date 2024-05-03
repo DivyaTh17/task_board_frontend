@@ -1,0 +1,24 @@
+.custom-action-button{
+    background-color: transparent !important;
+    border: 1px solid white !important;
+    transition: background-color 0.3s;
+}
+.custom-action-button:hover{
+    background-color: rgba(255, 255, 255, 0.4);
+}
+
+.custom-action-button.with-icon{
+    height: 5rem;
+}
+/* To give different styling for buttons with text */
+.custom-action-button.with-text{
+    border-color: black !important;
+}
+
+.action-button-text{
+    color: black;
+}
+
+.custom-action-button.with-text:hover{
+    background-color: rgba(27, 8, 235, 0.4);
+}
