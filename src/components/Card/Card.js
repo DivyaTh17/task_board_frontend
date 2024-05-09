@@ -52,10 +52,10 @@ export const Card = ({
             description: task_description,
             status: status,
         })
-        // //Clear input fileds
-        // set_task_title("");
-        // set_task_description("");
-        // set_status("todo");
+        //Clear input fileds
+        set_task_title("");
+        set_task_description("");
+        set_status("todo");
         // Close modal
         handleClose();
     };

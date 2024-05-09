@@ -6,7 +6,7 @@ This is a React project for creating a dashboard which add tasks according to th
 User can view their task in these three columns.
 Hope you like it! :D
 
-Documenting how I did this:
+Documenting how I did this: 
 1. Started working with a design in mind. 
 2. As I wanted to stick to basics, I did not use NextJS. Although, I am planning to use it later just to learn.
 3. I wanted an organised file structure, so I created a folder for all components and screens.
